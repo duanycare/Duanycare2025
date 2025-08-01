@@ -38,6 +38,8 @@ Duanycare2025/
 ├── .env.example        # Biến môi trường mẫu
 ├── README.md           # Tài liệu dự án
 └── package.json        # Nếu dùng workspace
+---
+## clone & cài thư viện
 ```bash
 git clone https://github.com/duanycare/Duanycare2025.git
 cd Duanycare2025
